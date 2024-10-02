@@ -1,8 +1,8 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Nsp Oec Training Chapter 20 - NSP_OEC_Training_Chapter_20
-NSP_OEC_Training_Chapter_20
+# Nsp Oec Training Chapter 20 - National Ski Patrol - Outdoor Emergency Care chapter 20
+National Ski Patrol - Outdoor Emergency Care chapter 20
 
 ![Image image_filename](code.png)
 
@@ -1371,7 +1371,47 @@ A skier has fallen and has severe pain in their **lower leg**. The leg is swolle
 
 By following these steps, you can safely remove a ski boot, hiking boot, or snowboard boot while minimizing the risk of worsening the injury and ensuring the patient’s comfort.
 
+The acronym **DCAP-BTLS** is a mnemonic used by emergency medical responders during trauma assessments to help remember the key signs of injury. It stands for:
 
+### **D - Deformities**:
+   - Look for any **abnormal shape** or **misalignment** in body parts, which may indicate fractures, dislocations, or other serious injuries.
+
+### **C - Contusions**:
+   - These are **bruises** caused by bleeding under the skin due to trauma. Contusions can indicate internal injuries or damage to underlying tissues.
+
+### **A - Abrasions**:
+   - **Scrapes or grazes** on the skin caused by friction, often from contact with rough surfaces. They can be superficial or deeper and may expose underlying tissue.
+
+### **P - Punctures/Penetrations**:
+   - Look for **puncture wounds** or **penetrations** caused by sharp objects. These can cause damage to deeper structures, including vital organs, and may pose a risk of infection.
+
+### **B - Burns**:
+   - Assess for any **burn injuries**, which can vary in severity from superficial (1st degree) to full-thickness (3rd degree). Burns can damage the skin, tissues, and even deeper structures.
+
+### **T - Tenderness**:
+   - **Tenderness** refers to pain felt when an area is touched. It may indicate an underlying injury such as fractures, internal bleeding, or organ damage.
+
+### **L - Lacerations**:
+   - **Cuts or tears** in the skin that vary in depth and severity. Lacerations can cause significant bleeding and may require stitches or surgical intervention.
+
+### **S - Swelling**:
+   - Swelling is caused by **fluid buildup** in the tissues, often a result of injury. It may indicate fractures, sprains, or internal bleeding.
+
+---
+
+### **Summary**:
+DCAP-BTLS is used during a **head-to-toe physical examination** to help first responders identify and assess potential traumatic injuries. Here’s how each part helps:
+
+- **Deformities**: Indicates broken bones or joint dislocations.
+- **Contusions**: Suggest possible internal bleeding.
+- **Abrasions**: Shows skin damage that might be superficial or deep.
+- **Punctures**: Signals the risk of internal organ damage from sharp objects.
+- **Burns**: Identifies areas of skin and tissue damage.
+- **Tenderness**: Localizes pain and helps to identify potential underlying injuries.
+- **Lacerations**: Points to open wounds that might need closure or further medical attention.
+- **Swelling**: Can signal tissue damage, fractures, or fluid buildup from injury.
+
+By using **DCAP-BTLS**, emergency personnel can systematically check for trauma and prioritize treatment based on the severity of injuries.
 
 ![Image image_filename](sample.png)
 
@@ -1399,7 +1439,7 @@ To get started with the **Nsp Oec Training Chapter 20** solution repository, fol
 - **Educational** - Includes educational dialogue and background material
     
 ## Deliverables or Figures
- ![additional_image](assessing_musculoskeletal.png)  <br>![additional_image](assessment_pain.png)  <br>![additional_image](bones.png)  <br>![additional_image](forearm_injuries.png)  <br>![additional_image](humerous_injury.png)  <br>![additional_image](humorous_treatment.png)  <br>![additional_image](joints.png)  <br>![additional_image](ligaments.png)  <br>![additional_image](ligament_injuries.png)  <br>![additional_image](muscles.png)  <br>![additional_image](NSP_OEC_Training_Chapter_20.png)  <br>![additional_image](REASONS FOR SPLINTING.png)  <br>![additional_image](severity_of_burns.png)  <br>![additional_image](shoulder_and_clavical_injuries.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](steps_for_splinting.png)  <br>![additional_image](tendons.png)  <br>![additional_image](The skeleton.png)  <br>![additional_image](types_of_burns.png)  <br>![additional_image](types_of_splints.png)  <br>![additional_image](typwa_of_splints.png)  <br>![additional_image](upper_body_bones.png)  <br>![additional_image](wilderness_pro_tip.png)  <br>
+ ![additional_image](assessing_musculoskeletal.png)  <br>![additional_image](assessment_pain.png)  <br>![additional_image](bones.png)  <br>![additional_image](forearm_injuries.png)  <br>![additional_image](humerous_injury.png)  <br>![additional_image](humorous_treatment.png)  <br>![additional_image](joints.png)  <br>![additional_image](ligaments.png)  <br>![additional_image](ligament_injuries.png)  <br>![additional_image](lower body bones.png)  <br>![additional_image](muscles.png)  <br>![additional_image](NSP_OEC_Training_Chapter_20.png)  <br>![additional_image](REASONS FOR SPLINTING.png)  <br>![additional_image](severity_of_burns.png)  <br>![additional_image](shoulder_and_clavical_injuries.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](steps_for_splinting.png)  <br>![additional_image](tendons.png)  <br>![additional_image](The skeleton.png)  <br>![additional_image](types_of_burns.png)  <br>![additional_image](types_of_splints.png)  <br>![additional_image](typwa_of_splints.png)  <br>![additional_image](upper_body_bones.png)  <br>![additional_image](wilderness_pro_tip.png)  <br>
     
 
 ## Github    

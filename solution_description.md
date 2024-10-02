@@ -1364,4 +1364,44 @@ A skier has fallen and has severe pain in their **lower leg**. The leg is swolle
 
 By following these steps, you can safely remove a ski boot, hiking boot, or snowboard boot while minimizing the risk of worsening the injury and ensuring the patient’s comfort.
 
+The acronym **DCAP-BTLS** is a mnemonic used by emergency medical responders during trauma assessments to help remember the key signs of injury. It stands for:
 
+### **D - Deformities**:
+   - Look for any **abnormal shape** or **misalignment** in body parts, which may indicate fractures, dislocations, or other serious injuries.
+
+### **C - Contusions**:
+   - These are **bruises** caused by bleeding under the skin due to trauma. Contusions can indicate internal injuries or damage to underlying tissues.
+
+### **A - Abrasions**:
+   - **Scrapes or grazes** on the skin caused by friction, often from contact with rough surfaces. They can be superficial or deeper and may expose underlying tissue.
+
+### **P - Punctures/Penetrations**:
+   - Look for **puncture wounds** or **penetrations** caused by sharp objects. These can cause damage to deeper structures, including vital organs, and may pose a risk of infection.
+
+### **B - Burns**:
+   - Assess for any **burn injuries**, which can vary in severity from superficial (1st degree) to full-thickness (3rd degree). Burns can damage the skin, tissues, and even deeper structures.
+
+### **T - Tenderness**:
+   - **Tenderness** refers to pain felt when an area is touched. It may indicate an underlying injury such as fractures, internal bleeding, or organ damage.
+
+### **L - Lacerations**:
+   - **Cuts or tears** in the skin that vary in depth and severity. Lacerations can cause significant bleeding and may require stitches or surgical intervention.
+
+### **S - Swelling**:
+   - Swelling is caused by **fluid buildup** in the tissues, often a result of injury. It may indicate fractures, sprains, or internal bleeding.
+
+---
+
+### **Summary**:
+DCAP-BTLS is used during a **head-to-toe physical examination** to help first responders identify and assess potential traumatic injuries. Here’s how each part helps:
+
+- **Deformities**: Indicates broken bones or joint dislocations.
+- **Contusions**: Suggest possible internal bleeding.
+- **Abrasions**: Shows skin damage that might be superficial or deep.
+- **Punctures**: Signals the risk of internal organ damage from sharp objects.
+- **Burns**: Identifies areas of skin and tissue damage.
+- **Tenderness**: Localizes pain and helps to identify potential underlying injuries.
+- **Lacerations**: Points to open wounds that might need closure or further medical attention.
+- **Swelling**: Can signal tissue damage, fractures, or fluid buildup from injury.
+
+By using **DCAP-BTLS**, emergency personnel can systematically check for trauma and prioritize treatment based on the severity of injuries.
