@@ -1,6 +1,9 @@
 ![Image image_filename](solution_sign.png)
-    # Nsp Oec Training Chapter 20 
-    ## National Ski Patrol - Outdoor Emergency Care chapter 20
+    
+# Nsp Oec Training Chapter 20 
+
+## National Ski Patrol - Outdoor Emergency Care chapter 20
+
     ![Image image_filename](code.png)
 
 ## Chapter 20: Musculoskeletal Injuries
@@ -1428,9 +1431,9 @@ To get started with the **Nsp Oec Training Chapter 20** solution repository, fol
 - Saves You Time 
 
 
-## Notebook Features
+## Code Features
 
-These Features are design to provide everything you need for **Knowledge Transfer** 
+These features are designed to provide everything you need for **Nsp Oec Training Chapter 20** 
 
 - **Self Documenting** - Automatically identifes major steps in notebook 
 - **Self Testing** - Unit Testing for each function
@@ -1440,6 +1443,7 @@ These Features are design to provide everything you need for **Knowledge Transfe
 - **Self Debugging** - Enhanced python standard debugging
 - **Low Code** - or - No Code  - Most solutions are under 50 lines of code
 - **Educational** - Includes educational dialogue and background material
+
     
 ## List of Figures
  ![additional_image](assessing_musculoskeletal.png)  <br>![additional_image](assessment_pain.png)  <br>![additional_image](bones.png)  <br>![additional_image](forearm_injuries.png)  <br>![additional_image](humerous_injury.png)  <br>![additional_image](humorous_treatment.png)  <br>![additional_image](joints.png)  <br>![additional_image](ligaments.png)  <br>![additional_image](ligament_injuries.png)  <br>![additional_image](lower body bones.png)  <br>![additional_image](muscles.png)  <br>![additional_image](NSP_OEC_Training_Chapter_20.png)  <br>![additional_image](REASONS FOR SPLINTING.png)  <br>![additional_image](severity_of_burns.png)  <br>![additional_image](shoulder_and_clavical_injuries.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](steps_for_splinting.png)  <br>![additional_image](tendons.png)  <br>![additional_image](The skeleton.png)  <br>![additional_image](types_of_burns.png)  <br>![additional_image](types_of_splints.png)  <br>![additional_image](typwa_of_splints.png)  <br>![additional_image](upper_body_bones.png)  <br>![additional_image](wilderness_pro_tip.png)  <br>
