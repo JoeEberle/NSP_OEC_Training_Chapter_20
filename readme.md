@@ -1405,7 +1405,7 @@ DCAP-BTLS is used during a **head-to-toe physical examination** to help first re
 - **Swelling**: Can signal tissue damage, fractures, or fluid buildup from injury.
 
 By using **DCAP-BTLS**, emergency personnel can systematically check for trauma and prioritize treatment based on the severity of injuries.
-![Image image_filename](sample.png)
+![Image image_filename](code.png)![Image image_filename](sample.png)
 ## Getting Started
 
 The goal of this solution is to **Jump Start** your development and have you up and running in 30 minutes. 
