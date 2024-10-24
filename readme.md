@@ -8,21 +8,6 @@
 ![Solution](code.png)
 
     
-## Table of Contents
-
-- [Solution Overview](#solution-overview)
-- [Who will use this ?](#who-can-use)
-- [Advantages of Using](#advantages-of-using)
-- [Return on Investment (ROI)](#return-on-investment-roi)
-- [How it Works](#how-it-works)
-- [Conclusion](#conclusion)
-- [Getting Started](#getting-started)
-- [Solution Features](#solution-features)
-- [Code Features](#code-features)
-- [Deliverables or Figures](#deliverables-or-figures)
-- [Contact Information](#contact-information)
-
-
 
 ## Chapter 20: Musculoskeletal Injuries
 
@@ -1445,29 +1430,6 @@ To get started with the **Nsp Oec Training Chapter 20** solution repository, fol
 2. Install the required dependencies listed at the top of the notebook.
 3. Explore the example code provided in the repository and experiment.
 4. Run the notebook and make it your own - **EASY !**
-    
-## Solution Features
-
-- Easy to understand and use  
-- Easily Configurable 
-- Quickly start your project with pre-built templates
-- Its Fast and Automated
-- Saves You Time 
-
-
-## Code Features
-
-These features are designed to provide everything you need for **Nsp Oec Training Chapter 20** 
-
-- **Self Documenting** - Automatically identifes major steps in notebook 
-- **Self Testing** - Unit Testing for each function
-- **Easily Configurable** - Easily modify with **config.INI** - keyname value pairs
-- **Includes Talking Code** - The code explains itself 
-- **Self Logging** - Enhanced python standard logging   
-- **Self Debugging** - Enhanced python standard debugging
-- **Low Code** - or - No Code  - Most solutions are under 50 lines of code
-- **Educational** - Includes educational dialogue and background material
-
     
 ## List of Figures
  ![additional_image](assessing_musculoskeletal.png)  <br>![additional_image](assessment_pain.png)  <br>![additional_image](bones.png)  <br>![additional_image](forearm_injuries.png)  <br>![additional_image](humerous_injury.png)  <br>![additional_image](humorous_treatment.png)  <br>![additional_image](joints.png)  <br>![additional_image](ligaments.png)  <br>![additional_image](ligament_injuries.png)  <br>![additional_image](lower body bones.png)  <br>![additional_image](muscles.png)  <br>![additional_image](NSP_OEC_Training_Chapter_20.png)  <br>![additional_image](REASONS FOR SPLINTING.png)  <br>![additional_image](severity_of_burns.png)  <br>![additional_image](shoulder_and_clavical_injuries.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](steps_for_splinting.png)  <br>![additional_image](tendons.png)  <br>![additional_image](The skeleton.png)  <br>![additional_image](types_of_burns.png)  <br>![additional_image](types_of_splints.png)  <br>![additional_image](typwa_of_splints.png)  <br>![additional_image](upper_body_bones.png)  <br>![additional_image](wilderness_pro_tip.png)  <br>
