@@ -74,7 +74,7 @@ The **musculoskeletal system** includes **bones, muscles, joints, tendons, ligam
 ---
 
 ### **Summary of Functions**:
-- **Support and Structure**: Bones provide the body’s framework, and muscles help maintain posture.
+- **Support and Structure**: Bones provide the bodyâ€™s framework, and muscles help maintain posture.
 - **Movement**: Muscles contract to move bones at joints, with tendons and ligaments providing stability and force transmission.
 - **Protection**: Bones protect vital organs (e.g., the skull protects the brain).
 - **Cushioning and Shock Absorption**: Cartilage, bursae, and intervertebral discs cushion bones and reduce friction during movement.
@@ -87,7 +87,7 @@ Each of these structures works together to allow the body to move, maintain stab
 
 ## 20.2. Describe how musculoskeletal tissues heal.
 
-The healing process for **musculoskeletal tissues**—including **bones, muscles, tendons, ligaments**, and **cartilage**—involves several stages. Each tissue type heals differently based on its structure and blood supply. Below is a general overview of how these tissues heal:
+The healing process for **musculoskeletal tissues**â€”including **bones, muscles, tendons, ligaments**, and **cartilage**â€”involves several stages. Each tissue type heals differently based on its structure and blood supply. Below is a general overview of how these tissues heal:
 
 ### **1. Bone Healing**:
 Bones have an excellent blood supply, which allows them to heal relatively well. The process of bone healing typically follows these stages:
@@ -250,7 +250,7 @@ In more severe cases, physical therapy or surgery may be required. Both injuries
 
 Assessing musculoskeletal injuries involves a systematic approach to determine the severity of the injury, identify any underlying damage, and decide on the necessary treatment. The general assessment includes **history taking**, **physical examination**, and **specific tests**.
 
-Here’s how to assess musculoskeletal injuries step-by-step:
+Hereâ€™s how to assess musculoskeletal injuries step-by-step:
 
 ---
 
@@ -353,7 +353,7 @@ Based on the assessment, you may proceed with:
 
 ## 20.5. List the signs and symptoms of sprains, strains, ruptured tendons, dislocations, and fractures.
 
-Here’s a detailed list of the **signs and symptoms** for each type of musculoskeletal injury:
+Hereâ€™s a detailed list of the **signs and symptoms** for each type of musculoskeletal injury:
 
 ---
 
@@ -555,7 +555,7 @@ The **lower extremities** include the hips, thighs, knees, ankles, and feet.
 
 ## 20.7. Explain the general management of a patient with a musculoskeletal injury.
 
-The **general management** of a patient with a musculoskeletal injury aims to reduce pain, prevent further injury, and promote healing. It involves **initial first aid**, stabilizing the injury, and providing appropriate care until the patient can be evaluated and treated by a healthcare professional. Here’s a step-by-step guide to managing musculoskeletal injuries:
+The **general management** of a patient with a musculoskeletal injury aims to reduce pain, prevent further injury, and promote healing. It involves **initial first aid**, stabilizing the injury, and providing appropriate care until the patient can be evaluated and treated by a healthcare professional. Hereâ€™s a step-by-step guide to managing musculoskeletal injuries:
 
 ---
 
@@ -574,7 +574,7 @@ The goal of immobilization is to prevent further damage to the injured area and 
 - **Types of Splints**:
   - **Rigid splints**: Can be made from materials like wood, metal, or plastic.
   - **Soft splints**: Made from materials like pillows, folded blankets, or a sling.
-  - **Anatomic splints**: Using the patient’s body as a splint (e.g., taping an injured finger to an adjacent finger).
+  - **Anatomic splints**: Using the patientâ€™s body as a splint (e.g., taping an injured finger to an adjacent finger).
 
 #### **Steps to Apply a Splint**:
 1. **Support the injured area**: Have someone stabilize the injured part while you apply the splint.
@@ -586,7 +586,7 @@ The goal of immobilization is to prevent further damage to the injured area and 
 ---
 
 ### **3. Pain Control**:
-Musculoskeletal injuries can cause significant pain, and managing pain is crucial for the patient’s comfort.
+Musculoskeletal injuries can cause significant pain, and managing pain is crucial for the patientâ€™s comfort.
 
 - **R.I.C.E. Method** (for strains, sprains, and minor fractures):
   - **Rest**: Advise the patient to rest the injured part and avoid using it.
@@ -752,7 +752,7 @@ Traction splints are specialized splints used to **immobilize fractures of the f
 #### **Demonstration (Traction Splint for Femur Fracture)**:
 1. **Support the injured leg** while keeping the patient lying flat.
 2. Position the **traction splint** under the injured leg, ensuring the splint extends from the **hip to the ankle**.
-3. Attach the **ankle strap** securely to the patient’s ankle.
+3. Attach the **ankle strap** securely to the patientâ€™s ankle.
 4. Apply **gentle traction** by pulling on the strap, slowly extending the leg. This will help realign the femur and reduce pain.
 5. Secure the leg to the splint with additional straps around the **thigh and lower leg**.
 6. **Check circulation** by ensuring the patient can feel their foot and that the toes remain pink and warm.
@@ -829,7 +829,7 @@ By using the appropriate splint for the injury and following these guidelines, y
 
 ### **Key Differences**:
 1. **Direction of Force**:
-   - **Traction**: A force is applied in one direction (pulling along a body or object’s length).
+   - **Traction**: A force is applied in one direction (pulling along a body or objectâ€™s length).
    - **Tension**: The force is internal, stretching an object between two opposite forces (like in a cable or muscle).
 
 2. **Application**:
@@ -851,7 +851,7 @@ While both involve pulling forces, **traction** is an external pulling force app
 
 ## 20.10. Discuss the general principles of splinting.
 
-The **general principles of splinting** are essential for effectively immobilizing musculoskeletal injuries, reducing pain, preventing further damage, and promoting healing until professional medical care can be provided. Splinting involves applying devices to stabilize a suspected fracture, dislocation, sprain, or soft tissue injury. Proper splinting technique is crucial to avoid complications and ensure the patient’s comfort.
+The **general principles of splinting** are essential for effectively immobilizing musculoskeletal injuries, reducing pain, preventing further damage, and promoting healing until professional medical care can be provided. Splinting involves applying devices to stabilize a suspected fracture, dislocation, sprain, or soft tissue injury. Proper splinting technique is crucial to avoid complications and ensure the patientâ€™s comfort.
 
 Here are the **key principles of splinting**:
 
@@ -888,10 +888,10 @@ Here are the **key principles of splinting**:
    - The splint should be **snug enough** to stabilize the injured limb and prevent movement, but not so tight that it restricts blood flow.
    - Monitor for signs of compromised circulation, such as pale or blue skin, increased pain, or numbness.
 
-### **8. Use the Patient’s Body as a Splint When Necessary**:
-   - In certain situations (e.g., finger or toe injuries), use the **patient’s body as a natural splint**:
+### **8. Use the Patientâ€™s Body as a Splint When Necessary**:
+   - In certain situations (e.g., finger or toe injuries), use the **patientâ€™s body as a natural splint**:
      - Tape an injured finger to an adjacent uninjured finger.
-     - Use the patient’s chest to immobilize an injured arm by applying a sling and swathe.
+     - Use the patientâ€™s chest to immobilize an injured arm by applying a sling and swathe.
 
 ### **9. Elevate and Ice the Injury**:
    - After splinting, if appropriate and possible, **elevate the injured limb** above the level of the heart to help reduce swelling.
@@ -909,7 +909,7 @@ Here are the **key principles of splinting**:
    - Do not allow the patient to use the injured limb until it has been evaluated by a healthcare professional.
 
 ### **12. Reassure the Patient**:
-   - Immobilizing an injury can cause anxiety and pain, so it’s important to **reassure the patient** throughout the splinting process.
+   - Immobilizing an injury can cause anxiety and pain, so itâ€™s important to **reassure the patient** throughout the splinting process.
    - Explain what you are doing and make sure the patient is as comfortable as possible.
 
 ---
@@ -923,7 +923,7 @@ Here are the **key principles of splinting**:
 
 3. **Immobilize Above and Below the Injury**: Select a **rigid splint** (e.g., a padded board or commercial splint). Immobilize both the **wrist and elbow** by applying the splint along the underside of the arm.
 
-4. **Check CSM Before Splinting**: Check the patient’s **radial pulse**, assess **capillary refill** in the fingernails, and ask if they feel numbness or tingling.
+4. **Check CSM Before Splinting**: Check the patientâ€™s **radial pulse**, assess **capillary refill** in the fingernails, and ask if they feel numbness or tingling.
 
 5. **Pad the Splint**: Use gauze or a soft cloth to **pad the splint** and provide comfort around the wrist and elbow.
 
@@ -1037,7 +1037,7 @@ A patient has fallen and sustained a possible leg fracture. The lower leg is **p
 - **Recognize neurovascular compromise** early by checking for signs like pale skin, numbness, weak or absent pulse, and inability to move the extremity.
 - **Loosen restrictive materials** and ensure proper splinting without worsening circulation.
 - Frequently **recheck circulation, sensation, and movement** (CSM) to monitor changes.
-- Seek **immediate medical care**—neurovascular compromise can lead to permanent damage if untreated.
+- Seek **immediate medical care**â€”neurovascular compromise can lead to permanent damage if untreated.
 
 By following these steps, you can provide essential first aid for an injured extremity with neurovascular compromise and reduce the risk of long-term damage.
 
@@ -1045,7 +1045,7 @@ By following these steps, you can provide essential first aid for an injured ext
 ## 20.12. Demonstrate how to care for the following injuries (upper and lower extremities). 
 
 
-Caring for **upper and lower extremity injuries** follows a systematic approach that focuses on stabilizing the injury, reducing pain, preventing further damage, and ensuring that the injured area has proper blood flow and nerve function. Below, I’ll demonstrate how to care for injuries to both upper and lower extremities.
+Caring for **upper and lower extremity injuries** follows a systematic approach that focuses on stabilizing the injury, reducing pain, preventing further damage, and ensuring that the injured area has proper blood flow and nerve function. Below, Iâ€™ll demonstrate how to care for injuries to both upper and lower extremities.
 
 ---
 
@@ -1150,7 +1150,7 @@ The lower extremities include the hips, thighs, knees, ankles, and feet. Common 
 
 ### **General Guidelines for All Extremity Injuries**:
 - **Immobilization**: Always stabilize the injured limb in its current position to prevent further injury.
-- **Circulation Check**: Regularly check for **circulation, sensation, and movement** (CSM) to ensure that the injury isn’t causing neurovascular compromise.
+- **Circulation Check**: Regularly check for **circulation, sensation, and movement** (CSM) to ensure that the injury isnâ€™t causing neurovascular compromise.
 - **Ice and Elevation**: Use **ice** and **elevate** the limb to reduce swelling and inflammation.
 - **Pain Management**: If appropriate, administer **pain-relief medications** such as ibuprofen or acetaminophen.
 - **Seek Professional Help**: For serious injuries (e.g., fractures, dislocations, or significant pain and swelling), always **seek immediate medical care**.
@@ -1198,7 +1198,7 @@ The goals of care for an open fracture include **controlling bleeding**, **preve
 - Use a **rigid splint** or any available material (such as padded boards, rolled blankets, or a commercial splint) to immobilize the injured limb.
   - Ensure that the **joints above and below the fracture** are immobilized.
   - **Pad the splint** with soft materials to make it more comfortable and to avoid pressure on the exposed bone or wound.
-- **Secure the splint** with bandages or cloth without applying too much pressure, ensuring it’s snug but not tight enough to restrict circulation.
+- **Secure the splint** with bandages or cloth without applying too much pressure, ensuring itâ€™s snug but not tight enough to restrict circulation.
 
 #### **5. Check Circulation, Sensation, and Movement (CSM)**:
 - Check the **pulse** distal (further from the heart) to the injury:
@@ -1220,7 +1220,7 @@ The goals of care for an open fracture include **controlling bleeding**, **preve
 
 #### **8. Provide Comfort and Reassurance**:
 - Reassure the patient and encourage them to stay calm and as still as possible.
-- Offer **pain relief** if available and appropriate, such as ibuprofen or acetaminophen, but be cautious of the patient’s condition, especially if they are showing signs of shock or require surgery soon.
+- Offer **pain relief** if available and appropriate, such as ibuprofen or acetaminophen, but be cautious of the patientâ€™s condition, especially if they are showing signs of shock or require surgery soon.
 
 #### **9. Rapid Transport**:
 - **Seek immediate medical care**. Open fractures typically require surgical intervention to clean the wound and stabilize the fracture. Transport the patient to a hospital as soon as possible.
@@ -1266,7 +1266,7 @@ A person has fallen, resulting in a **compound fracture** of the forearm. The **
 - **Control bleeding** around the wound without applying pressure to the exposed bone.
 - **Immobilize the limb** with a splint, ensuring the joints above and below the fracture are stabilized.
 - **Prevent infection** by covering the wound with a sterile dressing.
-- **Check circulation, sensation, and movement** regularly to ensure the injury isn’t affecting blood flow or nerve function.
+- **Check circulation, sensation, and movement** regularly to ensure the injury isnâ€™t affecting blood flow or nerve function.
 - **Do not attempt to realign the bone** or push it back into the wound.
 - Seek **immediate medical care** for surgical treatment and infection prevention.
 
@@ -1276,7 +1276,7 @@ By following these steps, you can stabilize a patient with an open (compound) fr
 
 ### **Removing a Ski Boot, Hiking Boot, or Snowboard Boot with a Leg Injury**
 
-Removing a boot from a patient with a leg injury, such as a **fracture, sprain, or dislocation**, requires caution to prevent **worsening the injury** or causing further pain. The boot provides some support to the injured leg, so removing it improperly can lead to additional damage. Therefore, it’s important to immobilize and support the leg while removing the boot gently and methodically.
+Removing a boot from a patient with a leg injury, such as a **fracture, sprain, or dislocation**, requires caution to prevent **worsening the injury** or causing further pain. The boot provides some support to the injured leg, so removing it improperly can lead to additional damage. Therefore, itâ€™s important to immobilize and support the leg while removing the boot gently and methodically.
 
 Here is a step-by-step guide to safely remove a **ski boot, hiking boot, or snowboard boot** when a patient has a leg injury.
 
@@ -1366,12 +1366,12 @@ A skier has fallen and has severe pain in their **lower leg**. The leg is swolle
 
 ### **Key Points**:
 - **Immobilize the leg** before attempting to remove the boot.
-- **Loosen the boot** fully before attempting to slide it off, and avoid forcing the boot off if it’s stuck.
+- **Loosen the boot** fully before attempting to slide it off, and avoid forcing the boot off if itâ€™s stuck.
 - **Monitor circulation** (capillary refill, pulse, sensation) throughout the process.
 - **Reapply a splint** after removing the boot to stabilize the injury and reduce further damage.
 - Seek **professional medical care** immediately for serious injuries.
 
-By following these steps, you can safely remove a ski boot, hiking boot, or snowboard boot while minimizing the risk of worsening the injury and ensuring the patient’s comfort.
+By following these steps, you can safely remove a ski boot, hiking boot, or snowboard boot while minimizing the risk of worsening the injury and ensuring the patientâ€™s comfort.
 
 The acronym **DCAP-BTLS** is a mnemonic used by emergency medical responders during trauma assessments to help remember the key signs of injury. It stands for:
 
@@ -1402,7 +1402,7 @@ The acronym **DCAP-BTLS** is a mnemonic used by emergency medical responders dur
 ---
 
 ### **Summary**:
-DCAP-BTLS is used during a **head-to-toe physical examination** to help first responders identify and assess potential traumatic injuries. Here’s how each part helps:
+DCAP-BTLS is used during a **head-to-toe physical examination** to help first responders identify and assess potential traumatic injuries. Hereâ€™s how each part helps:
 
 - **Deformities**: Indicates broken bones or joint dislocations.
 - **Contusions**: Suggest possible internal bleeding.
@@ -1432,7 +1432,7 @@ To get started with the **Nsp Oec Training Chapter 20** solution repository, fol
 4. Run the notebook and make it your own - **EASY !**
     
 ## List of Figures
- ![additional_image](assessing_musculoskeletal.png)  <br>![additional_image](assessment_pain.png)  <br>![additional_image](bones.png)  <br>![additional_image](forearm_injuries.png)  <br>![additional_image](humerous_injury.png)  <br>![additional_image](humorous_treatment.png)  <br>![additional_image](joints.png)  <br>![additional_image](ligaments.png)  <br>![additional_image](ligament_injuries.png)  <br>![additional_image](lower body bones.png)  <br>![additional_image](muscles.png)  <br>![additional_image](NSP_OEC_Training_Chapter_20.png)  <br>![additional_image](REASONS FOR SPLINTING.png)  <br>![additional_image](severity_of_burns.png)  <br>![additional_image](shoulder_and_clavical_injuries.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](steps_for_splinting.png)  <br>![additional_image](tendons.png)  <br>![additional_image](The skeleton.png)  <br>![additional_image](types_of_burns.png)  <br>![additional_image](types_of_splints.png)  <br>![additional_image](typwa_of_splints.png)  <br>![additional_image](upper_body_bones.png)  <br>![additional_image](wilderness_pro_tip.png)  <br>
+ ![additional_image](assessing_musculoskeletal.png)  <br>![additional_image](assessment_pain.png)  <br>![additional_image](bones.png)  <br>![additional_image](forearm_injuries.png)  <br>![additional_image](humerous_injury.png)  <br>![additional_image](humorous_treatment.png)  <br>![additional_image](joints.png)  <br>![additional_image](ligaments.png)  <br>![additional_image](ligament_injuries.png)  <br>![additional_image](lower body bones.png)  <br>![additional_image](muscles.png)  <br>![additional_image](NSP_OEC_Training_Chapter_20.png)  <br>![additional_image](REASONS FOR SPLINTING.png)  <br>![additional_image](severity_of_burns.png)  <br>![additional_image](shoulder_and_clavical_injuries.png)  <br>![additional_image](soft_tissue_injuries.png)  <br>![additional_image](steps_for_splinting.png)  <br>![additional_image](tendons.png)  <br>![additional_image](The skeleton.png)  <br>![additional_image](types_of_burns.png)  <br>![additional_image](types_of_splints.png)  <br>![additional_image](upper_body_bones.png)  <br>![additional_image](wilderness_pro_tip.png)  <br>
     
 
 ## Github https://github.com/JoeEberle/ - Email  josepheberle@outlook.com 
